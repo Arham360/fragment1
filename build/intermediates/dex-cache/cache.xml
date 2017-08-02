@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/arhamakbar/.android/build-cache/4d892996769b2831b4031e2c759c1756d378b7ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc853652fcf47d99e37ab1362c228d1ef90a2a1f">
+        <dex dex="/Users/arhamakbar/Desktop/Pace App/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c48346e2b65d24f0d5abdf22dc807322b1d7bacf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arhamakbar/Desktop/Pace App/Fragments/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/arhamakbar/Desktop/Pace App/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51c58e728979eec6a95ebef265d084285919f229/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arhamakbar/Desktop/Pace App/Fragments/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="24ac67f4c7c924dba55d2f0ed372aa339d6727df">
+        <dex dex="/Users/arhamakbar/Desktop/Pace App/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c69c25272ee5244f2ae8c704fc6f9f41df9b551f/classes.dex" />
+    </item>
+
+</items>
